@@ -909,7 +909,9 @@ footer ul.social-icons li a {
 	letter-spacing: 0.25px;
 	transition: all .3s;
 }
-
+footer a{
+	color: #0000
+}
 footer ul.social-icons li a:hover {
 	color: #f48840;
 }
